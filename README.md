@@ -8,7 +8,7 @@ I'm Kenneth, a full-stack developer with a background in hospitality. I love sol
 
 - 🍸I love **bartending and skateboarding**
 
-- 📫 How to reach me **kennethchien.kc@gmail.com**
+- 📫 Reach me @ **kennethchien.kc@gmail.com**
 
 - ⚡ Fun fact: **My bar nickname is the Professor**
 
