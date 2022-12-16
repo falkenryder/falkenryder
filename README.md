@@ -2,7 +2,7 @@
 
 I'm Kenneth, a full-stack developer with a background in hospitality. I love solving problems with code and learning about CS!
 
-- 🔭 I’m currently working on [Srimble](https://www.srimble.me/)
+- 🔭 I’m currently working on [Srimble](https://www.srimble.me/) v2! 
 
 - 📓 I’m currently learning **React**
 
