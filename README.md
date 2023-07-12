@@ -1,7 +1,7 @@
 <h3 align="center">Howdy Stranger 🖖</h3><br><br>
-![](https://komarev.com/ghpvc/?username=falkenryder&label=Visitors+Count&color=brightgreen)
 <div align="center">
 
+![](https://komarev.com/ghpvc/?username=falkenryder&label=Visitors+Count&color=brightgreen)
 I'm Kenneth, a full-stack developer with a background in hospitality. I love solving problems with code and learning about CS!
 
 ## 🥷 About me
