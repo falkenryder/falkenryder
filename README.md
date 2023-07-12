@@ -19,9 +19,9 @@ I'm Kenneth, a full-stack developer with a background in hospitality. I love sol
 
 
 
-<h3 align="left">Streak</h3>
+<h3 align="left">Stats</h3>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=falkenryder&theme=dark&hide_border=true)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=falkenryder&layout=compact)<br/>
 
 <h3 align="left">Socials</h3>
 <p align="left">
