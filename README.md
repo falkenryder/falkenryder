@@ -1,4 +1,4 @@
-<h3 align="center">Howdy Stranger 🖖</h3><br><br>
+<h3 align="center">Howdy Stranger 🖖</h3>
 <div align="center">
 I'm Kenneth, a full-stack developer with a background in hospitality. I love solving problems with code and learning about CS!
 
