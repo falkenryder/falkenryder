@@ -20,7 +20,7 @@ I'm Kenneth, a full-stack developer with a background in hospitality. I love sol
 
 
 <h3 align="left">Stats</h3>
-![Anurag's GitHub stats](https://github-readme-stats-fy0uqqj5i-falkenryder.vercel.app/api?username=falkenryder&show_icons=true&theme=transparent)
+![](https://github-readme-stats-fy0uqqj5i-falkenryder.vercel.app/api?username=falkenryder&show_icons=true&theme=transparent)
 
 <h3 align="left">Socials</h3>
 <p align="left">
