@@ -27,7 +27,7 @@ I'm Kenneth, a full-stack developer with a background in hospitality. I love sol
 
 ![Stats](https://github-readme-stats-hazel-three-74.vercel.app/api?username=falkenryder&rank_icon=github&hide=stars&show_icons=true&theme=dark)
 
-
+## 🏆 Trophies 
 [![trophy](https://github-profile-trophy.vercel.app/?username=falkenryder&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
@@ -58,7 +58,7 @@ I'm Kenneth, a full-stack developer with a background in hospitality. I love sol
 ![](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-
-</div>
 ![](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
 ![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
+
+</div>
