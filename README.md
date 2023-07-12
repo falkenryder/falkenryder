@@ -66,6 +66,6 @@ I'm Kenneth, a full-stack developer with a background in hospitality. I love sol
 ![](https://komarev.com/ghpvc/?username=falkenryder&label=Visitors+Count&color=brightgreen)
 ---
 [![forthebadge](https://forthebadge.com/images/badges/designed-in-ms-paint.svg)](https://forthebadge.com)
-[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)</br>
-[![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-case-western-reserve.svg)](https://forthebadge.com)
 </div>
