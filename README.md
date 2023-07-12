@@ -1,10 +1,10 @@
 <h3 align="center">Howdy Stranger 🖖</h3><br><br>
 
-<img align= "center" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNvNjdhc3AwZTF6ZDc3OGw4cjJrenFtZHFla2Jxd2J2eWVyN3M4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z6glgPJT2lV6UEc7d4/giphy.gif" >
 
 <div align="center">
 
 I'm Kenneth, a full-stack developer with a background in hospitality. I love solving problems with code and learning about CS!
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNvNjdhc3AwZTF6ZDc3OGw4cjJrenFtZHFla2Jxd2J2eWVyN3M4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z6glgPJT2lV6UEc7d4/giphy.gif" >
 
 ## 🥷 About me
 
