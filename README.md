@@ -1,7 +1,6 @@
 <h3 align="center">Howdy Stranger 🖖</h3><br><br>
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=falkenryder&label=Visitors+Count&color=brightgreen)
 I'm Kenneth, a full-stack developer with a background in hospitality. I love solving problems with code and learning about CS!
 
 ## 🥷 About me
@@ -63,4 +62,10 @@ I'm Kenneth, a full-stack developer with a background in hospitality. I love sol
 ![](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
 ![](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white)
 
+---
+![](https://komarev.com/ghpvc/?username=falkenryder&label=Visitors+Count&color=brightgreen)
+---
+[![forthebadge](https://forthebadge.com/images/badges/designed-in-ms-paint.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-case-western-reserve.svg)](https://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://forthebadge.com)
 </div>
