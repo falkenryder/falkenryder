@@ -1,4 +1,7 @@
 <h3 align="center">Howdy Stranger 🖖</h3><br><br>
+
+<div align="center" style="width:100%;height:0;padding-bottom:80%;position:relative;"><iframe src="https://giphy.com/embed/z6glgPJT2lV6UEc7d4" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/z6glgPJT2lV6UEc7d4">via GIPHY</a></p>
+
 <div align="center">
 
 I'm Kenneth, a full-stack developer with a background in hospitality. I love solving problems with code and learning about CS!
