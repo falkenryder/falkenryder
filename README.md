@@ -21,7 +21,7 @@ I'm Kenneth, a full-stack developer with a background in hospitality. I love sol
 
 <h3 align="left">Stats</h3>
 
-![Top Langs](https://github-readme-stats-fy0uqqj5i-falkenryder.vercel.app/api/top-langs/?username=falkenryder&layout=compact)
+![Top Langs](https://github-readme-stats-fy0uqqj5i-falkenryder.vercel.app/api/top-langs/?username=falkenryder&layout=compact)(https://github.com/falkenryder/github-readme-stats)
 
 <h3 align="left">Socials</h3>
 <p align="left">
