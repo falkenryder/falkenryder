@@ -21,7 +21,7 @@ I'm Kenneth, a full-stack developer with a background in hospitality. I love sol
 
 <h3 align="left">Stats</h3>
 
-![Stats](https://github-readme-stats-hazel-three-74.vercel.app/api?username=falkenryder&include_all_commits=true&show_icons=true&theme=dark)
+![Stats](https://github-readme-stats-hazel-three-74.vercel.app/api?username=falkenryder&include_all_commits&show_icons=true&theme=dark)
 
 <h3 align="left">Socials</h3>
 <p align="left">
