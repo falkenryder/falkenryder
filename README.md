@@ -1,6 +1,6 @@
 <h3 align="center">Howdy Stranger 🖖</h3><br><br>
 
-<iframe src="https://giphy.com/embed/z6glgPJT2lV6UEc7d4" width="480" height="384" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/z6glgPJT2lV6UEc7d4">via GIPHY</a></p>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDNvNjdhc3AwZTF6ZDc3OGw4cjJrenFtZHFla2Jxd2J2eWVyN3M4dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z6glgPJT2lV6UEc7d4/giphy.gif" width="28">
 
 <div align="center">
 
